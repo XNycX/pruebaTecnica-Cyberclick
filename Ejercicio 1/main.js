@@ -1,4 +1,4 @@
-// //Haz un script, que imprima por
+// Haz un script, que imprima por
 // pantalla una lista ordenada de números del 1 al 100 sustituyendo los múltiplos de 3
 // por la cadena “cyber”, los múltiplos de 5 por la cadena “click” y los que son múltiplos
 // de 3 y de 5 por “cyberclick”

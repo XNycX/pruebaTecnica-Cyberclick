@@ -14,7 +14,7 @@ Necesitaremos simplemente la instalación de un programa para realizar nuestro c
 * Node.JS
 
 
-**Resolución Ejercicio 1:
+** Resolución Ejercicio 1:
 
 He realizado un bucle for que se autoincrementase hasta llegara 100, dentro de ese bucle he creado un switch indicando las siguientes condiciones:
 
@@ -25,7 +25,7 @@ He realizado un bucle for que se autoincrementase hasta llegara 100, dentro de e
 
 También he dejado comentada otra forma de realizar el ejercicio esta vez usando IF & else if con su condición.
 
-**Imagen de la solución:
+** Imagen de la solución:
 
 ![foto](/img/Ejercicio1.PNG)
 
